@@ -1,0 +1,5 @@
+---
+mainfont: Shobhika-Regular.otf
+mainfontoptions:
+- BoldFont=Shobhika-Bold.otf
+---
