@@ -60,7 +60,3 @@
 		<Verifier>None</Verifier>
 	</Metadata>
 </Project>
-
-1. Extract the zip file anywhere.
-2. Start qpadfinal.exe
-3. Open pages from inds folder(data structure needs to remain same).
