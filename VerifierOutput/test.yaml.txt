@@ -1,5 +1,10 @@
 ---
-mainfont: Shobhika-Regular.otf
+mainfont: Font-Regular.otf
 mainfontoptions:
-- BoldFont=Shobhika-Bold.otf
+- BoldFont=Font-Bold.otf
+- ItalicFont=Font-Italic.otf
+- BoldItalicFont=Font-BoldItalic.otf
 ---
+
+1. Windows Testing.
+2. Look into creating PDF from HTML
