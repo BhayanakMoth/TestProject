@@ -54,7 +54,7 @@
 	</ItemGroup>
 	<Metadata>
 		<Version>2</Version>
-		<Stage>Verifier</Stage>
+		<Stage>Corrector</Stage>
 		<Corrector>None</Corrector>
 		<SanityChecker>None</SanityChecker>
 		<Verifier>None</Verifier>
